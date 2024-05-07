@@ -9,7 +9,7 @@ This is a curated list of innovative, open web technologies.
 - [Revolt](https://github.com/revoltchat) – User-first chat platform inspired by Discord
 - [Commune](https://github.com/commune-os) – Community platform, specifically designed for public-by-default communities
 
-### Webtops
+### Webtops / Web OSes
 
 - [Puter](https://github.com/HeyPuter) – Full-featured Internet OS
 - [Pluto](https://github.com/zeondev/pluto) – Minimal and functional Webtop
@@ -25,3 +25,7 @@ This is a curated list of innovative, open web technologies.
 ### Communication
 
 - [Polyproto](https://docs.polyphony.chat) – Advanced, secure and scalable protocol for federated chat services
+
+### Webtops / Web OSes
+
+- [web-os-spec](https://github.com/use-pluto/web-os-spec) – Specification for the protocol handler `web+os`
