@@ -6,8 +6,14 @@ This is a curated list of innovative, open web technologies.
 
 ### Communication
 
+#### Chat
+
 - [Revolt](https://github.com/revoltchat) – User-first chat platform inspired by Discord
 - [Commune](https://github.com/commune-os) – Community platform, specifically designed for public-by-default communities
+
+#### Forum
+
+- [Lemmy](https://github.com/LemmyNet/lemmy) – Link aggregator and forum for the fediverse, like Reddit
 
 ### Webtops / Web OSes
 
