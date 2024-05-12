@@ -19,6 +19,7 @@ This is a curated list of innovative, open web technologies.
 
 - [Puter](https://github.com/HeyPuter) – Full-featured Internet OS
 - [Pluto](https://github.com/zeondev/pluto) – Minimal and functional Webtop
+- [OS.js](https://github.com/os-js) – JavaScript Web Desktop Platform
 
 ### AI UIs
 
