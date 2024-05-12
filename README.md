@@ -22,7 +22,7 @@ This is a curated list of innovative, open web technologies.
 - [OS.js](https://github.com/os-js) – JavaScript Web Desktop Platform
 - [anuraOS](https://github.com/MercuryWorkshop/anuraOS) – A web "OS" and development environment with full Linux emulation
 
-### AI UIs
+### AI Platforms
 
 - [Open WebUI](https://github.com/open-webui/open-webui) – User-friendly WebUI for LLMs (formerly Ollama WebUI)
 - [LibreChat](https://github.com/danny-avila/LibreChat) – Enhanced ChatGPT clone supporting many AI backends
