@@ -50,3 +50,7 @@ This is a curated list of innovative, open web technologies.
 ### Webtops / Web OSes
 
 - [web-os-spec](https://github.com/use-pluto/web-os-spec) – Specification for the protocol handler `web+os`
+
+### Devops
+
+- [ForgeFed](https://forgefed.org) – Federation protocol for software forges and code collaboration tools
