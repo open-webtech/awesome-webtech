@@ -59,6 +59,7 @@ This is a curated list of innovative, open web technologies.
 ### Devops
 
 - [Forgejo](https://forgejo.org) – Self-hostable lightweight software forge (soft fork of Gitea by independent Codeberg e.V.)
+- [Gitea](https://github.com/go-gitea/gitea) – Painless self-hosted all-in-one software development service.
 
 ## Protocols and Specifications
 
