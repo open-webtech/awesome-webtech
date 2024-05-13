@@ -37,6 +37,10 @@ This is a curated list of innovative, open web technologies.
 
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) – Platform for autonomous AI software engineers
 
+### Devops
+
+- [Forgejo](https://forgejo.org) – Self-hostable lightweight software forge (soft fork of Gitea by independent Codeberg e.V.)
+
 ## Protocols and Specifications
 
 ### Communication
