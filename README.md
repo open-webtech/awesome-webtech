@@ -1,5 +1,8 @@
 # Awesome WebTech
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License](https://img.shields.io/github/license/open-webtech/awesome-webtech.svg?color=blue)](LICENSE.md)
+
 This is a curated list of innovative, open web technologies.
 
 **Table of Contents:**
