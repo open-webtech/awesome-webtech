@@ -2,6 +2,22 @@
 
 This is a curated list of innovative, open web technologies.
 
+**Table of Contents:**
+
+- [Programs](#programs)
+  - [Communication](#communication)
+    - [Chat](#chat)
+    - [Forum](#forum)
+  - [Webtops / Web OSes](#webtops--web-oses)
+  - [AI Platforms](#ai-platforms)
+    - [Chat UIs](#chat-uis)
+    - [Agents](#agents)
+  - [Devops](#devops)
+- [Protocols and Specifications](#protocols-and-specifications)
+  - [Communication](#communication-1)
+  - [Webtops / Web OSes](#webtops--web-oses-1)
+  - [Devops](#devops-1)
+
 ## Programs
 
 ### Communication
