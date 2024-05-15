@@ -7,7 +7,7 @@ This is a curated list of innovative, open web technologies.
 
 **Table of Contents:**
 
-- [Programs](#programs)
+- [Applications](#applications)
   - [Communication](#communication)
     - [Chat](#chat)
     - [Forum](#forum)
@@ -21,7 +21,7 @@ This is a curated list of innovative, open web technologies.
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
 
-## Programs
+## Applications
 
 ### Communication
 
