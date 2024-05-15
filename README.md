@@ -15,6 +15,7 @@ This is a curated list of innovative, open web technologies.
   - [AI Platforms](#ai-platforms)
     - [Chat UIs](#chat-uis)
     - [Agents](#agents)
+    - [Dashboards / Search / Research](#dashboards--search--research)
   - [Devops](#devops)
 - [Protocols and Specifications](#protocols-and-specifications)
   - [Communication](#communication-1)
@@ -55,6 +56,10 @@ This is a curated list of innovative, open web technologies.
 #### Agents
 
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) – Platform for autonomous AI software engineers
+
+#### Dashboards / Search / Research
+
+- [Perplexica](https://github.com/ItzCrazyKns/Perplexica) – An open source Perplexity AI clone utilizing SearXNG for search (supports Ollama)
 
 ### Devops
 
