@@ -28,6 +28,7 @@ This is a curated list of innovative, open web technologies.
 
 #### Chat
 
+- [Positive Intentions Chat](https://github.com/positive-intentions/chat) – Decentralized chat app for messaging, file sharing, and virtual reality experiences.
 - [Commune](https://github.com/commune-os) – Community platform, specifically designed for public-by-default communities.
 - [Revolt](https://github.com/revoltchat) – User-first chat platform inspired by Discord.
 
