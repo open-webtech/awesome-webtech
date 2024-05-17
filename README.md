@@ -28,54 +28,54 @@ This is a curated list of innovative, open web technologies.
 
 #### Chat
 
-- [Revolt](https://github.com/revoltchat) – User-first chat platform inspired by Discord
-- [Commune](https://github.com/commune-os) – Community platform, specifically designed for public-by-default communities
+- [Commune](https://github.com/commune-os) – Community platform, specifically designed for public-by-default communities.
+- [Revolt](https://github.com/revoltchat) – User-first chat platform inspired by Discord.
 
 #### Forum
 
-- [Lemmy](https://github.com/LemmyNet/lemmy) – Link aggregator and forum for the fediverse, like Reddit
+- [Lemmy](https://github.com/LemmyNet/lemmy) – Link aggregator and forum for the fediverse, like Reddit.
 
 ### Webtops / Web OSes
 
-- [Puter](https://github.com/HeyPuter) – Full-featured Internet OS
-- [Pluto](https://github.com/zeondev/pluto) – Minimal and functional Webtop
-- [OS.js](https://github.com/os-js) – JavaScript Web Desktop Platform
-- [anuraOS](https://github.com/MercuryWorkshop/anuraOS) – A web "OS" and development environment with full Linux emulation
+- [anuraOS](https://github.com/MercuryWorkshop/anuraOS) – A web "OS" and development environment with full Linux emulation.
+- [OS.js](https://github.com/os-js) – JavaScript Web Desktop Platform.
+- [Pluto](https://github.com/zeondev/pluto) – Minimal and functional Webtop.
+- [Puter](https://github.com/HeyPuter) – Full-featured Internet OS.
 
 ### AI Platforms
 
 #### Chat UIs
 
-- [Open WebUI](https://github.com/open-webui/open-webui) – User-friendly WebUI for LLMs (formerly Ollama WebUI)
-- [LibreChat](https://github.com/danny-avila/LibreChat) – Enhanced ChatGPT clone supporting many AI backends
-- [Chatlabs](https://github.com/writingmate/chatlabs) – All-in-one LLM chat platform based on Chatbot UI v2
-- [HackerGPT](https://github.com/Hacker-GPT/HackerGPT-2.0) – Ethical hacking AI for web application hacking (based on Chatbot UI v2)
-- [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) – Open source codebase powering the HuggingChat app
-- [Samurai](https://github.com/Jonneal3/samurai-v1/tree/samurai) – AI chat for every model (based on Chatbot UI v2)
+- [Chatlabs](https://github.com/writingmate/chatlabs) – All-in-one LLM chat platform based on Chatbot UI v2.
+- [HackerGPT](https://github.com/Hacker-GPT/HackerGPT-2.0) – Ethical hacking AI for web application hacking (based on Chatbot UI v2).
+- [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) – Open source codebase powering the HuggingChat app.
+- [LibreChat](https://github.com/danny-avila/LibreChat) – Enhanced ChatGPT clone supporting many AI backends.
+- [Open WebUI](https://github.com/open-webui/open-webui) – User-friendly WebUI for LLMs (formerly Ollama WebUI).
+- [Samurai](https://github.com/Jonneal3/samurai-v1/tree/samurai) – AI chat for every model (based on Chatbot UI v2).
 
 #### Agents
 
-- [OpenDevin](https://github.com/OpenDevin/OpenDevin) – Platform for autonomous AI software engineers
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin) – Platform for autonomous AI software engineers.
 
 #### Dashboards / Search / Research
 
-- [Perplexica](https://github.com/ItzCrazyKns/Perplexica) – An open source Perplexity AI clone utilizing SearXNG for search (supports Ollama)
+- [Perplexica](https://github.com/ItzCrazyKns/Perplexica) – An open source Perplexity AI clone utilizing SearXNG for search (supports Ollama).
 
 ### Devops
 
-- [Forgejo](https://forgejo.org) – Self-hostable lightweight software forge (soft fork of Gitea by independent Codeberg e.V.)
+- [Forgejo](https://forgejo.org) – Self-hostable lightweight software forge (soft fork of Gitea by independent Codeberg e.V.).
 - [Gitea](https://github.com/go-gitea/gitea) – Painless self-hosted all-in-one software development service.
 
 ## Protocols and Specifications
 
 ### Communication
 
-- [Polyproto](https://docs.polyphony.chat) – Advanced, secure and scalable protocol for federated chat services
+- [Polyproto](https://docs.polyphony.chat) – Advanced, secure and scalable protocol for federated chat services.
 
 ### Webtops / Web OSes
 
-- [web-os-spec](https://github.com/use-pluto/web-os-spec) – Specification for the protocol handler `web+os`
+- [web-os-spec](https://github.com/use-pluto/web-os-spec) – Specification for the protocol handler `web+os`.
 
 ### Devops
 
-- [ForgeFed](https://forgefed.org) – Federation protocol for software forges and code collaboration tools
+- [ForgeFed](https://forgefed.org) – Federation protocol for software forges and code collaboration tools.
