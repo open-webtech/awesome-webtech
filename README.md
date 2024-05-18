@@ -47,6 +47,7 @@ This is a curated list of innovative, open web technologies.
 
 #### Chat UIs
 
+- [ChatBSV](https://github.com/ChatBSV/app) – AI chat and microservices in exchange for tiny Bitcoin microtransactions.
 - [Chatlabs](https://github.com/writingmate/chatlabs) – All-in-one LLM chat platform based on Chatbot UI v2.
 - [HackerGPT](https://github.com/Hacker-GPT/HackerGPT-2.0) – Ethical hacking AI for web application hacking (based on Chatbot UI v2).
 - [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) – Open source codebase powering the HuggingChat app.
