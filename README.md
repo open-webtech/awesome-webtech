@@ -47,6 +47,7 @@ This is a curated list of innovative, open web technologies.
 ### Webtops / Web OSes
 
 - [anuraOS](https://github.com/MercuryWorkshop/anuraOS) – A web "OS" and development environment with full Linux emulation.
+- [daedalOS](https://github.com/DustinBrett/daedalOS) – Browser-based desktop environment with many features.
 - [kodbox](https://github.com/kalcaddle/kodbox) – Webtop providing a file manager, code editor, and collaboration features.
 - [OS.js](https://github.com/os-js) – JavaScript Web Desktop Platform.
 - [Pluto](https://github.com/zeondev/pluto) – Minimal and functional Webtop.
