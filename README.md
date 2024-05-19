@@ -18,11 +18,12 @@ This is a curated list of innovative, open web technologies.
     - [Agents](#agents)
     - [Dashboards / Search / Research](#dashboards--search--research)
   - [Devops](#devops)
+  - [Infrastructure](#infrastructure)
 - [Protocols and Specifications](#protocols-and-specifications)
   - [Communication](#communication-1)
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
-  - [Infrastructure](#infrastructure)
+  - [Infrastructure](#infrastructure-1)
 
 ## Applications
 
@@ -75,6 +76,10 @@ This is a curated list of innovative, open web technologies.
 
 - [Forgejo](https://forgejo.org) – Self-hostable lightweight software forge (soft fork of Gitea by independent Codeberg e.V.).
 - [Gitea](https://github.com/go-gitea/gitea) – Painless self-hosted all-in-one software development service.
+
+### Infrastructure
+
+- [boringproxy](https://github.com/boringproxy/boringproxy) – Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 
 ## Protocols and Specifications
 
