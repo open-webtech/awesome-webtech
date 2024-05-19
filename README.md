@@ -10,6 +10,7 @@ This is a curated list of innovative, open web technologies.
 - [Applications](#applications)
   - [Communication](#communication)
     - [Chat](#chat)
+    - [Microblog](#microblog)
     - [Forum](#forum)
   - [Webtops / Web OSes](#webtops--web-oses)
   - [AI Platforms](#ai-platforms)
@@ -31,6 +32,10 @@ This is a curated list of innovative, open web technologies.
 - [Commune](https://github.com/commune-os) – Community platform, specifically designed for public-by-default communities.
 - [positive-intentions: chat](https://github.com/positive-intentions/chat) – Decentralized chat app for messaging, file sharing, and virtual reality experiences.
 - [Revolt](https://github.com/revoltchat) – User-first chat platform inspired by Discord.
+
+#### Microblog
+
+- [Memos](https://github.com/usememos/memos) – Privacy-first, lightweight note-taking service with multi-tenancy and sharing capabilities.
 
 #### Forum
 
