@@ -22,6 +22,7 @@ This is a curated list of innovative, open web technologies.
   - [Communication](#communication-1)
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
+  - [Infrastructure](#infrastructure)
 
 ## Applications
 
@@ -88,3 +89,7 @@ This is a curated list of innovative, open web technologies.
 ### Devops
 
 - [ForgeFed](https://forgefed.org) – Federation protocol for software forges and code collaboration tools.
+
+### Infrastructure
+
+- [NameDrop](https://github.com/takingnames/namedrop-protocol-spec) – Specification for an open, easy-to-implement DNS delegation protocol.
