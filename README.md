@@ -92,4 +92,5 @@ This is a curated list of innovative, open web technologies.
 
 ### Infrastructure
 
+- [DomainConnect](https://www.domainconnect.org) – Specification for an open DNS delegation protocol.
 - [NameDrop](https://github.com/takingnames/namedrop-protocol-spec) – Specification for an open, easy-to-implement DNS delegation protocol.
