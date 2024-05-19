@@ -39,6 +39,7 @@ This is a curated list of innovative, open web technologies.
 
 #### Forum
 
+- [Bonfire](https://github.com/bonfire-networks/bonfire-app) – Social networking toolkit for crafting digital spaces that empower communities.
 - [Lemmy](https://github.com/LemmyNet/lemmy) – Link aggregator and forum for the fediverse, like Reddit.
 
 ### Webtops / Web OSes
