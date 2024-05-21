@@ -100,6 +100,7 @@ This is a curated list of innovative, open web technologies.
 ### Core Services
 
 - [Earthstar](https://github.com/earthstar-project/earthstar) – Specification and JavaScript library for a small and resilient distributed storage protocol.
+- [Willow](https://willowprotocol.org) – Lightweight protocol for peer-to-peer data stores, featuring fine-grained permissions, a keen approach to privacy, and destructive edits.
 
 ### Infrastructure
 
