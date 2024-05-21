@@ -23,6 +23,7 @@ This is a curated list of innovative, open web technologies.
   - [Communication](#communication-1)
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
+  - [Core Services](#core-services)
   - [Infrastructure](#infrastructure-1)
 
 ## Applications
@@ -95,6 +96,10 @@ This is a curated list of innovative, open web technologies.
 ### Devops
 
 - [ForgeFed](https://forgefed.org) – Federation protocol for software forges and code collaboration tools.
+
+### Core Services
+
+- [Earthstar](https://github.com/earthstar-project/earthstar) – Specification and JavaScript library for a small and resilient distributed storage protocol.
 
 ### Infrastructure
 
