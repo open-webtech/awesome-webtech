@@ -16,7 +16,7 @@ This is a curated list of innovative, open web technologies.
   - [AI Platforms](#ai-platforms)
     - [Chat UIs](#chat-uis)
     - [Agents](#agents)
-    - [Dashboards / Search / Research](#dashboards--search--research)
+    - [Search / Research](#search--research)
   - [Devops](#devops)
   - [Infrastructure](#infrastructure)
 - [Protocols and Specifications](#protocols-and-specifications)
@@ -24,6 +24,7 @@ This is a curated list of innovative, open web technologies.
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
   - [Core Services](#core-services)
+    - [Storage](#storage)
   - [General](#general)
     - [Monetization](#monetization)
   - [Infrastructure](#infrastructure-1)
@@ -72,7 +73,7 @@ This is a curated list of innovative, open web technologies.
 
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) – Platform for autonomous AI software engineers.
 
-#### Dashboards / Search / Research
+#### Search / Research
 
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) – An open source Perplexity AI clone utilizing SearXNG for search (supports Ollama).
 
@@ -100,6 +101,8 @@ This is a curated list of innovative, open web technologies.
 - [ForgeFed](https://forgefed.org) – Federation protocol for software forges and code collaboration tools.
 
 ### Core Services
+
+#### Storage
 
 - [Earthstar](https://github.com/earthstar-project/earthstar) – Specification and JavaScript library for a small and resilient distributed storage protocol.
 - [Willow](https://willowprotocol.org) – Lightweight protocol for peer-to-peer data stores, featuring fine-grained permissions, a keen approach to privacy, and destructive edits.
