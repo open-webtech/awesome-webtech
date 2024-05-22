@@ -24,6 +24,8 @@ This is a curated list of innovative, open web technologies.
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
   - [Core Services](#core-services)
+  - [General](#general)
+    - [Monetization](#monetization)
   - [Infrastructure](#infrastructure-1)
 
 ## Applications
@@ -101,6 +103,12 @@ This is a curated list of innovative, open web technologies.
 
 - [Earthstar](https://github.com/earthstar-project/earthstar) – Specification and JavaScript library for a small and resilient distributed storage protocol.
 - [Willow](https://willowprotocol.org) – Lightweight protocol for peer-to-peer data stores, featuring fine-grained permissions, a keen approach to privacy, and destructive edits.
+
+### General
+
+#### Monetization
+
+- [Web Monetization API](https://webmonetization.org) – Allows websites to automatically and passively receive payments from Web Monetization-enabled visitors.
 
 ### Infrastructure
 
