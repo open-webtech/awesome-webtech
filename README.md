@@ -96,6 +96,7 @@ This is a curated list of innovative, open web technologies.
 
 ### Communication
 
+- [Matrix](https://spec.matrix.org) – An open protocol for decentralised, secure communications.
 - [Nostr](https://nostr.com) – A truly censorship-resistant alternative to Twitter that has a chance of working.
 - [Polyproto](https://docs.polyphony.chat) – Advanced, secure and scalable protocol for federated chat services.
 
