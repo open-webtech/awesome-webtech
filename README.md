@@ -12,6 +12,7 @@ This is a curated list of innovative, open web technologies.
     - [Chat](#chat)
     - [Microblog](#microblog)
     - [Forum](#forum)
+    - [Mail](#mail)
   - [Webtops / Web OSes](#webtops--web-oses)
   - [AI Platforms](#ai-platforms)
     - [Chat UIs](#chat-uis)
@@ -47,6 +48,10 @@ This is a curated list of innovative, open web technologies.
 
 - [Bonfire](https://github.com/bonfire-networks/bonfire-app) – Social networking toolkit for crafting digital spaces that empower communities.
 - [Lemmy](https://github.com/LemmyNet/lemmy) – Link aggregator and forum for the fediverse, like Reddit.
+
+#### Mail
+
+- [Maddy](https://github.com/foxcpp/maddy) – Composable all-in-one mail server.
 
 ### Webtops / Web OSes
 
