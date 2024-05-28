@@ -22,6 +22,8 @@ This is a curated list of innovative, open web technologies.
   - [Infrastructure](#infrastructure)
 - [Protocols and Specifications](#protocols-and-specifications)
   - [Communication](#communication-1)
+    - [Chat](#chat-1)
+    - [Microblog](#microblog-1)
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
   - [Core Services](#core-services)
@@ -29,6 +31,7 @@ This is a curated list of innovative, open web technologies.
   - [General](#general)
     - [Monetization](#monetization)
   - [Infrastructure](#infrastructure-1)
+    - [DNS](#dns)
 
 ## Applications
 
@@ -96,9 +99,14 @@ This is a curated list of innovative, open web technologies.
 
 ### Communication
 
+#### Chat
+
 - [Matrix](https://spec.matrix.org) – An open protocol for decentralised, secure communications.
-- [Nostr](https://nostr.com) – A truly censorship-resistant alternative to Twitter that has a chance of working.
 - [Polyproto](https://docs.polyphony.chat) – Advanced, secure and scalable protocol for federated chat services.
+
+#### Microblog
+
+- [Nostr](https://nostr.com) – A truly censorship-resistant alternative to Twitter that has a chance of working.
 
 ### Webtops / Web OSes
 
@@ -122,6 +130,8 @@ This is a curated list of innovative, open web technologies.
 - [Web Monetization API](https://webmonetization.org) – Allows websites to automatically and passively receive payments from Web Monetization-enabled visitors.
 
 ### Infrastructure
+
+#### DNS
 
 - [DomainConnect](https://www.domainconnect.org) – Specification for an open DNS delegation protocol.
 - [NameDrop](https://github.com/takingnames/namedrop-protocol-spec) – Specification for an open, easy-to-implement DNS delegation protocol.
