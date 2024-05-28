@@ -21,6 +21,8 @@ This is a curated list of innovative, open web technologies.
     - [Agents](#agents)
     - [Search / Research](#search--research)
   - [Devops](#devops)
+  - [General](#general)
+    - [Storage](#storage)
   - [Infrastructure](#infrastructure)
 - [Protocols and Specifications](#protocols-and-specifications)
   - [Communication](#communication-1)
@@ -28,8 +30,8 @@ This is a curated list of innovative, open web technologies.
     - [Microblog](#microblog-1)
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
-  - [General](#general)
-    - [Storage](#storage)
+  - [General](#general-1)
+    - [Storage](#storage-1)
     - [Monetization](#monetization)
   - [Infrastructure](#infrastructure-1)
     - [DNS](#dns)
@@ -91,6 +93,12 @@ This is a curated list of innovative, open web technologies.
 
 - [Forgejo](https://forgejo.org) – Self-hostable lightweight software forge (soft fork of Gitea by independent Codeberg e.V.).
 - [Gitea](https://github.com/go-gitea/gitea) – Painless self-hosted all-in-one software development service.
+
+### General
+
+#### Storage
+
+- [Garage](https://garagehq.deuxfleurs.fr) – An open-source distributed object storage service tailored for self-hosting.
 
 ### Infrastructure
 
