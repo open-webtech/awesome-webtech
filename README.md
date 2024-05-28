@@ -28,9 +28,8 @@ This is a curated list of innovative, open web technologies.
     - [Microblog](#microblog-1)
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
-  - [Core Services](#core-services)
-    - [Storage](#storage)
   - [General](#general)
+    - [Storage](#storage)
     - [Monetization](#monetization)
   - [Infrastructure](#infrastructure-1)
     - [DNS](#dns)
@@ -118,14 +117,12 @@ This is a curated list of innovative, open web technologies.
 
 - [ForgeFed](https://forgefed.org) – Federation protocol for software forges and code collaboration tools.
 
-### Core Services
+### General
 
 #### Storage
 
 - [Earthstar](https://github.com/earthstar-project/earthstar) – Specification and JavaScript library for a small and resilient distributed storage protocol.
 - [Willow](https://willowprotocol.org) – Lightweight protocol for peer-to-peer data stores, featuring fine-grained permissions, a keen approach to privacy, and destructive edits.
-
-### General
 
 #### Monetization
 
