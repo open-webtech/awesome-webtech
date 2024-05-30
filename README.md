@@ -22,6 +22,7 @@ This is a curated list of innovative, open web technologies.
     - [Search / Research](#search--research)
   - [Devops](#devops)
   - [General](#general)
+    - [Identity and Authentication](#identity-and-authentication)
     - [Storage](#storage)
   - [Infrastructure](#infrastructure)
 - [Protocols and Specifications](#protocols-and-specifications)
@@ -96,6 +97,10 @@ This is a curated list of innovative, open web technologies.
 - [Gitea](https://github.com/go-gitea/gitea) – Painless self-hosted all-in-one software development service.
 
 ### General
+
+#### Identity and Authentication
+
+- [Rauthy](https://github.com/sebadob/rauthy) – OpenID Connect Single Sign-On Identity & Access Management.
 
 #### Storage
 
