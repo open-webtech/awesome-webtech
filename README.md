@@ -100,6 +100,7 @@ This is a curated list of innovative, open web technologies.
 
 #### Identity and Authentication
 
+- [Authelia](https://github.com/authelia/authelia) – Single Sign-On Multi-Factor portal for web apps.
 - [Rauthy](https://github.com/sebadob/rauthy) – OpenID Connect Single Sign-On Identity & Access Management.
 
 #### Storage
