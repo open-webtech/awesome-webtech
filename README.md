@@ -48,6 +48,7 @@ This is a curated list of innovative, open web technologies.
 
 #### Microblog
 
+- [Kitsune](https://github.com/kitsune-soc/kitsune) – (Fast) ActivityPub-federated microblogging.
 - [Memos](https://github.com/usememos/memos) – Privacy-first, lightweight note-taking service with multi-tenancy and sharing capabilities.
 
 #### Forum
