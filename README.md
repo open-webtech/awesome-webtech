@@ -32,6 +32,7 @@ This is a curated list of innovative, open web technologies.
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
   - [General](#general-1)
+    - [Identity and Authentication](#identity-and-authentication-1)
     - [Storage](#storage-1)
     - [Monetization](#monetization)
   - [Infrastructure](#infrastructure-1)
@@ -133,6 +134,10 @@ This is a curated list of innovative, open web technologies.
 - [ForgeFed](https://forgefed.org) – Federation protocol for software forges and code collaboration tools.
 
 ### General
+
+#### Identity and Authentication
+
+- [IndieAuth](https://indieauth.spec.indieweb.org) – An identity layer on top of OAuth 2.0, primarily used to obtain an OAuth 2.0 Bearer Token for use by Micropub clients.
 
 #### Storage
 
