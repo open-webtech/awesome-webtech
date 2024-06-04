@@ -62,6 +62,7 @@ This is a curated list of innovative, open web technologies.
 #### Mail
 
 - [Maddy](https://github.com/foxcpp/maddy) – Composable all-in-one mail server.
+- [Stalwart](https://github.com/stalwartlabs/mail-server) – Secure & modern all-in-one mail server (IMAP, JMAP, POP3, SMTP).
 
 ### Webtops / Web OSes
 
