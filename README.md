@@ -109,6 +109,7 @@ This is a curated list of innovative, open web technologies.
 
 - [Authelia](https://github.com/authelia/authelia) – Single Sign-On Multi-Factor portal for web apps.
 - [Rauthy](https://github.com/sebadob/rauthy) – OpenID Connect Single Sign-On Identity & Access Management.
+- [Weird](https://github.com/commune-os/weird) – A decentralized web persona builder and identity provider.
 
 #### Storage
 
