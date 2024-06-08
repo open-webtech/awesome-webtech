@@ -149,6 +149,7 @@ This is a curated list of innovative, open web technologies.
 #### Storage
 
 - [Earthstar](https://github.com/earthstar-project/earthstar) – Specification and JavaScript library for a small and resilient distributed storage protocol.
+- [Noosphere](https://github.com/subconsciousnetwork/noosphere) – A protocol for thought, defining a worldwide knowledge graph on top of IPFS.
 - [Willow](https://willowprotocol.org) – Lightweight protocol for peer-to-peer data stores, featuring fine-grained permissions, a keen approach to privacy, and destructive edits.
 
 #### Monetization
