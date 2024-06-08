@@ -130,6 +130,7 @@ This is a curated list of innovative, open web technologies.
 
 - [Matrix](https://spec.matrix.org) – An open protocol for decentralised, secure communications.
 - [Polyproto](https://docs.polyphony.chat) – Advanced, secure and scalable protocol for federated chat services.
+- [XMPP](https://xmpp.org) – An open protocol for real-time messaging and presence.
 
 #### Microblog
 
