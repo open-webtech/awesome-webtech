@@ -22,6 +22,7 @@ This is a curated list of innovative, open web technologies.
     - [Search / Research](#search--research)
   - [Devops](#devops)
   - [General](#general)
+    - [Graphics and Design](#graphics-and-design)
     - [Identity and Authentication](#identity-and-authentication)
     - [Storage](#storage)
   - [Infrastructure](#infrastructure)
@@ -99,6 +100,10 @@ This is a curated list of innovative, open web technologies.
 - [Gitea](https://github.com/go-gitea/gitea) – Painless self-hosted all-in-one software development service.
 
 ### General
+
+#### Graphics and Design
+
+- [Penpot](https://penpot.app/) – Design tool that bridges the gap between designers and developers.
 
 #### Identity and Authentication
 
