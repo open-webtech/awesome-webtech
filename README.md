@@ -155,6 +155,7 @@ This is a curated list of innovative, open web technologies.
 - [IPFS](https://specs.ipfs.tech) – A set of composable, peer-to-peer protocols for addressing, routing, and transferring content-addressed data in a decentralized file system.
 - [Iroh](https://iroh.computer/docs) – A protocol for syncing bytes of any size across any number of devices, and a toolkit for building distributed apps.
 - [Noosphere](https://github.com/subconsciousnetwork/noosphere) – A protocol for thought, defining a worldwide knowledge graph on top of IPFS.
+- [Solid](https://solidproject.org/TR/protocol) – A specification that lets people store their data securely in decentralized data stores.
 - [Willow](https://willowprotocol.org) – Lightweight protocol for peer-to-peer data stores, featuring fine-grained permissions, a keen approach to privacy, and destructive edits.
 
 #### Monetization
