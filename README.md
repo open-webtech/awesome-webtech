@@ -51,6 +51,7 @@ This is a curated list of innovative, open web technologies.
 
 #### Microblog
 
+- [Hometown](https://github.com/hometown-fork/hometown) – A supported fork of *Mastodon* that provides local posting and a wider range of content types.
 - [Kitsune](https://github.com/kitsune-soc/kitsune) – (Fast) ActivityPub-federated microblogging.
 - [Mastodon](https://github.com/mastodon/mastodon) – A decentralized microblogging platform built on ActivityPub.
 - [Memos](https://github.com/usememos/memos) – Privacy-first, lightweight note-taking service with multi-tenancy and sharing capabilities.
