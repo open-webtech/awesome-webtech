@@ -136,7 +136,7 @@ This is a curated list of innovative, open web technologies.
 
 #### Microblog
 
-- [Nostr](https://nostr.com) – A truly censorship-resistant alternative to Twitter that has a chance of working.
+- [Nostr](https://nostr.com) – A truly censorship-resistant alternative to Twitter. [Controversial](https://www.businessinsider.com/jack-dorsey-fiatjaf-nostr-donation-2024-6).
 
 ### Webtops / Web OSes
 
