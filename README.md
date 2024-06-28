@@ -149,6 +149,7 @@ This is a curated list of innovative, open web technologies.
 
 #### Identity and Authentication
 
+- [OAuth 2.0](https://oauth.net/2/) – An open standard for access delegation, commonly used for token-based authentication.
 - [IndieAuth](https://indieauth.spec.indieweb.org) – An identity layer on top of OAuth 2.0, primarily used to obtain an OAuth 2.0 Bearer Token for use by Micropub clients.
 
 #### Storage
