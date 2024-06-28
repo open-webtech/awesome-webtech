@@ -33,6 +33,7 @@ This is a curated list of innovative, open web technologies.
   - [Webtops / Web OSes](#webtops--web-oses-1)
   - [Devops](#devops-1)
   - [General](#general-1)
+    - [Database](#database)
     - [Identity and Authentication](#identity-and-authentication-1)
     - [Storage](#storage-1)
     - [Monetization](#monetization)
@@ -147,6 +148,10 @@ This is a curated list of innovative, open web technologies.
 - [ForgeFed](https://forgefed.org) – Federation protocol for software forges and code collaboration tools.
 
 ### General
+
+#### Database
+
+- [GUN](https://github.com/amark/gun) – An open source cybersecurity protocol and ecosystem of tools for syncing decentralized graph data.
 
 #### Identity and Authentication
 
