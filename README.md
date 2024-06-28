@@ -124,6 +124,7 @@ This is a curated list of innovative, open web technologies.
 ### Infrastructure
 
 - [boringproxy](https://github.com/boringproxy/boringproxy) – Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
+- [Seabreeze](https://github.com/seabreeze-project/seabreeze) – A really simple container orchestration tool with superpowers, optimized for the management of web applications.
 
 ## Protocols and Specifications
 
