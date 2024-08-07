@@ -2,8 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/github/license/open-webtech/awesome-webtech.svg?color=blue)](LICENSE.md)
-[![GitHub Discussions](https://img.shields.io/github/discussions/open-webtech/owta-community.svg?logo=github&logoColor=white)](https://github.com/orgs/open-webtech/discussions)
-[![Community Discord](https://img.shields.io/discord/1232848386080899083?label=Discord&labelColor=5865F2&logo=discord&logoColor=white)](https://discord.gg/uWQrByVyNA)
+[![GitHub Discussions](https://img.shields.io/github/discussions/open-webtech/owta-community.svg?logo=github&logoColor=white)](https://go.owta.dev/discussions)
+[![Community Discord](https://img.shields.io/discord/1232848386080899083?label=Discord&labelColor=5865F2&logo=discord&logoColor=white)](https://go.owta.dev/discord)
 
 This is a curated list of innovative, open web technologies.
 
